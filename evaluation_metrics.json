@@ -1,0 +1,27 @@
+{
+  "Tesseract": {
+    "CER": 0.9139,
+    "WER": 0.998,
+    "BLEU": 0.0173
+  },
+  "EasyOCR": {
+    "CER": 0.8739,
+    "WER": 0.993,
+    "BLEU": 0.0111
+  },
+  "Vision AI": {
+    "CER": 0.6346,
+    "WER": 0.722,
+    "BLEU": 0.4673
+  },
+  "Fused": {
+    "CER": 0.1449,
+    "WER": 0.279,
+    "BLEU": 0.6751
+  },
+  "Corrected": {
+    "CER": 0.0,
+    "WER": 0.0,
+    "BLEU": 1.0
+  }
+}
